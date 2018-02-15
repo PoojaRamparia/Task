@@ -34,10 +34,6 @@ public class Balance
         {
             Balance(Bal1);
         });
-/*        for (int[] Bal1 : Bal)
-        {
-            Balance(Bal1);
-        }*/
 
     }
 }
